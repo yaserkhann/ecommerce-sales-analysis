@@ -48,6 +48,11 @@ The project demonstrates the application of data analysis, business intelligence
 
 
 
+### 4. Product Performance
+
+![Product Performance Dashboard](screenshots/04_Product_Performance.png)
+
+
 ## Key Performance Indicators (KPIs)
 
 The dashboard analyzes the Brazilian Olist E-Commerce Dataset and provides the following overall performance metrics.
