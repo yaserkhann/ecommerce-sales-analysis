@@ -59,3 +59,55 @@ The dashboard analyzes the Brazilian Olist E-Commerce Dataset and provides the f
 - **Late Delivery Rate:** Percentage of eligible delivered orders received after their estimated delivery date.
 
 These results represent the full dataset without additional year, month, or product-category filters.
+
+## Key Business Findings and Recommendations
+
+### 1. Revenue Growth Opportunity
+
+**Key Findings**
+- Health & Beauty generated approximately **R$1.26M**, contributing **9.26%** of total merchandise revenue.
+- Bed, Bath & Table recorded the highest sales volume, with **11,115 items sold**.
+- Different product categories lead in revenue and sales volume, highlighting opportunities for category-level analysis.
+
+**Business Recommendations**
+- Evaluate pricing and product assortment within high-performing categories.
+- Investigate cross-selling opportunities between complementary products.
+- Monitor average order value and category revenue contribution to measure improvements.
+
+### 2. Delivery and Logistics Performance
+
+**Key Findings**
+- The overall on-time delivery rate was **93.23%** among eligible delivered orders.
+- **6,534 delivered orders** arrived late, representing a **6.77% late delivery rate**.
+- Alabama (AL) recorded a particularly high late delivery rate of **21.41%**.
+
+**Business Recommendations**
+- Investigate shipping delays in states with elevated late delivery rates.
+- Evaluate carrier performance, shipping routes, and fulfillment processes.
+- Prioritize operational improvements based on both delay frequency and affected order volume.
+
+**Success Metric:** On-Time Delivery Rate (%).
+
+### 3. Customer Retention Opportunity
+
+**Key Findings**
+- The dataset contains **96,096 unique customers**.
+- Only **2,997 customers** placed multiple orders during the reporting period.
+- The overall repeat customer rate was **3.12%**.
+
+**Business Recommendations**
+- Explore customer purchasing patterns and opportunities to encourage repeat purchases.
+- Test targeted promotions, loyalty initiatives, and post-purchase engagement.
+- Evaluate campaign effectiveness through controlled experiments.
+
+**Success Metric:** Repeat Customer Rate (%).
+
+### 4. Prioritized Business Action Plan
+
+| Priority | Recommended Action | Success Metric |
+|---|---|---|
+| High | Reduce delivery delays in high-risk states | On-Time Delivery Rate (%) |
+| High | Test repeat-purchase campaigns | Repeat Customer Rate (%) |
+| Medium | Optimize category pricing and product mix | Average Order Value |
+
+**Note:** These recommendations are proposed actions based on descriptive analysis. Their effectiveness should be evaluated through additional investigation, experimentation, and ongoing KPI monitoring.
