@@ -25,9 +25,17 @@ The project demonstrates the application of data analysis, business intelligence
 
 1. Executive Sales Overview
 2. Delivery & Logistics Performance
-3. Customer Insights
-4. Product Performance
-5. Business Insights & Recommendations
+4. Customer Insights
+5. Product Performance
+6. Business Insights & Recommendations
+
+
+## Dashboard Preview
+
+### 1. Executive Sales Overview
+
+![Executive Sales Overview](screenshots/01_Executive_Sales_Overview.png)
+
 
 ## Key Performance Indicators (KPIs)
 
