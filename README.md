@@ -37,6 +37,12 @@ The project demonstrates the application of data analysis, business intelligence
 ![Executive Sales Overview](screenshots/01_Executive_Sales_Overview.png)
 
 
+### 2. Delivery & Logistics Performance
+
+![Delivery & Logistics Performance](screenshots/02_Delivery_Logistics_Performance.png)
+
+
+
 ## Key Performance Indicators (KPIs)
 
 The dashboard analyzes the Brazilian Olist E-Commerce Dataset and provides the following overall performance metrics.
