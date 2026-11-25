@@ -42,6 +42,11 @@ The project demonstrates the application of data analysis, business intelligence
 ![Delivery & Logistics Performance](screenshots/02_Delivery_Logistics_Performance.png)
 
 
+### 3. Customer Insights
+
+![Customer Insights Dashboard](screenshots/03_Customer_Insights.png)
+
+
 
 ## Key Performance Indicators (KPIs)
 
