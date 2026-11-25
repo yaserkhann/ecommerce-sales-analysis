@@ -14,12 +14,15 @@ The project demonstrates the application of data analysis, business intelligence
 - Identify top-performing product categories and revenue contributors.
 - Develop data-driven business recommendations supported by measurable performance indicators.
 
+
 ### Tools and Technologies
 
-- **Power BI:** Interactive dashboards and data visualization.
-- **Power Query:** Data preparation and transformation.
-- **DAX:** Custom business measures and KPI calculations.
-- **GitHub:** Project documentation and version control.
+- **Power BI Desktop:** Interactive dashboard development and business intelligence reporting.
+- **Power Query (M):** Data cleaning, transformation, and preparation.
+- **DAX (Data Analysis Expressions):** Custom measures, calculated metrics, and KPI development.
+- **Data Modeling:** Table relationships and analytical data modeling.
+- **GitHub:** Project documentation, version control, and portfolio presentation.
+
 
 ### Dashboard Pages
 
