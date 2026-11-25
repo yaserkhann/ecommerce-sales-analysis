@@ -57,6 +57,12 @@ The project demonstrates the application of data analysis, business intelligence
 
 The dashboard analyzes the Brazilian Olist E-Commerce Dataset and provides the following overall performance metrics.
 
+
+### 5. Business Insights & Recommendations
+
+![Business Insights and Recommendations Dashboard](screenshots/05_Business_Insights_Recommendations.png)
+
+
 | KPI | Result |
 |---|---|
 | Total Sales Revenue | R$13.59M |
