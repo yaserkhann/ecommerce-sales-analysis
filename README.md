@@ -63,6 +63,21 @@ The dashboard analyzes the Brazilian Olist E-Commerce Dataset and provides the f
 ![Business Insights and Recommendations Dashboard](screenshots/05_Business_Insights_Recommendations.png)
 
 
+## Download the Interactive Dashboard
+
+**[Download Power BI Dashboard (.pbix)](Olist_Ecommerce_Analytics_Dashboard.pbix)**
+
+### How to Open the Dashboard
+
+1. Download the `.pbix` file using the link above.
+2. Open the file in Microsoft Power BI Desktop.
+3. Navigate between the five dashboard pages.
+4. Use the Year, Month, and Product Category slicers to explore the data.
+
+**Note:** Power BI Desktop is required to open the PBIX file. Dashboard screenshots are available below for visitors who do not have Power BI installed.
+
+
+
 | KPI | Result |
 |---|---|
 | Total Sales Revenue | R$13.59M |
