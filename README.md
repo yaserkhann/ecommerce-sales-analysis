@@ -65,7 +65,7 @@ The dashboard analyzes the Brazilian Olist E-Commerce Dataset and provides the f
 
 ## Download the Interactive Dashboard
 
-**[Download Power BI Dashboard (.pbix)](Olist_Ecommerce_Analytics_Dashboard.pbix)**
+**[Download Power BI Dashboard (.pbix)](Olist_ECommerce_Analytics.pbix)**
 
 ### How to Open the Dashboard
 
