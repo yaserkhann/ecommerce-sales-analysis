@@ -41,6 +41,8 @@ Key techniques include:
 
 **[View Complete DAX Documentation](dax/Olist_DAX_Documentation.md)**
 
+[Power Query Documentation](dax/Power_Query_Documentation.md)
+
 
 
 ### Dashboard Pages
