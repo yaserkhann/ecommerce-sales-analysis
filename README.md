@@ -24,6 +24,25 @@ The project demonstrates the application of data analysis, business intelligence
 - **GitHub:** Project documentation, version control, and portfolio presentation.
 
 
+## Technical Implementation
+
+### DAX Measures and Calculations
+
+This project uses DAX (Data Analysis Expressions) to calculate business KPIs, analyze customer purchasing behavior, evaluate delivery performance, and measure product-level sales.
+
+Key techniques include:
+
+- `CALCULATE` and `CALCULATETABLE` for filter-context calculations.
+- `TREATAS` for applying order selections across tables.
+- `DISTINCTCOUNT` for unique orders, customers, and products.
+- `DIVIDE` for calculating ratios and percentages.
+- `FILTER`, `ADDCOLUMNS`, and `AVERAGEX` for advanced business calculations.
+- `REMOVEFILTERS` for category revenue contribution analysis.
+
+**[View Complete DAX Documentation](dax/Olist_DAX_Documentation.md)**
+
+
+
 ### Dashboard Pages
 
 1. Executive Sales Overview
